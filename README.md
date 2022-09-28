@@ -5,7 +5,7 @@ a pocket calculator.
 
 [![Build Status](https://dev.azure.com/julygerzon0268/Integrating%20External%20Source%20Control%20with%20Azure%20Pipelines/_apis/build/status/jgerzonms-org.calculator?branchName=master)](https://dev.azure.com/julygerzon0268/Integrating%20External%20Source%20Control%20with%20Azure%20Pipelines/_build/latest?definitionId=13&branchName=master)
 
-[![Build Status](https://dev.azure.com/julygerzon0268/Integrating%20External%20Source%20Control%20with%20Azure%20Pipelines/_apis/build/status/jgerzonms-org.calculator?branchName=master&jobName=Job)](https://dev.azure.com/julygerzon0268/Integrating%20External%20Source%20Control%20with%20Azure%20Pipelines/_build/latest?definitionId=13&branchName=master)
+https://dev.azure.com/julygerzon0268/Integrating%20External%20Source%20Control%20with%20Azure%20Pipelines/_apis/build/status/jgerzonms-org.calculator?branchName=master
 
 The project contains a simple node.js application that exposes REST APIs
 to perform arithmetic on integers, and provides a test suite with mocha
